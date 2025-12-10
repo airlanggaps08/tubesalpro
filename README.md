@@ -1,6 +1,3 @@
-# tubesalpro
-repository ini berisi progres pengerjaan tugas besar mata kuliah algoritma dan pemrograman
-
 Sistem Informasi Manajemen Bank Sampah (E-Waste) 🌱Tugas Besar Algoritma & Pemrograman > Milestone 1: Progress 50%👤 Identitas PengembangNama: Airlangga Putra SumadiNIM: 2501624Kelas: Pendidikan Ilmu Komputer A📝 Deskripsi ProyekProgram ini adalah aplikasi berbasis Console (CLI) yang dibuat menggunakan bahasa C. Aplikasi ini berfungsi untuk mensimulasikan sistem teller bank sampah, di mana nasabah dapat menukar sampah (E-Waste) menjadi saldo tabungan.Pada tahap ini (Versi 0.5), pengembangan berfokus pada pematangan Struktur Data (Struct & Array) serta logika dasar Input-Output (CRUD) sebelum melangkah ke algoritma yang lebih kompleks.✅ Status Fitur (Progress 50%)NoFiturStatusKeterangan1Registrasi Nasabah✅ ReadyInput ID, Nama, Alamat ke Array2Lihat Data✅ ReadyMenampilkan tabel data nasabah3Setor Sampah⚠️ BasicInput transaksi manual by Index4Tarik Tunai🚧 On ProgressMenunggu logic validasi saldo5Cari Nasabah🚧 On ProgressMenunggu algoritma Sequential Search6Ranking Saldo🚧 On ProgressMenunggu algoritma Bubble Sort7Statistik (Max/Min)🚧 On ProgressMenunggu algoritma MaxMin💻 Kode Program (Source Code)Berikut adalah kode program untuk milestone 50%.#include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
